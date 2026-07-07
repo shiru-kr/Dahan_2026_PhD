@@ -33,4 +33,4 @@ Dahan, S., Ressin, L., Baltramonaityte, V., Corley, E., Laighneach, A., Walton, 
 ### Study 3
 **Reduced Cross-Modal Modularity and Flexibility of Network Organisation in Bipolar Disorder**
 
-Contains FSL scripts to preprocess and rescale T1-weighted MRI in FSL, MATLAB and SPM scripts for obtaining grey matter similarity networks, and Python code for multiplex network analysis integrating white matter connectivity, grey matter similarity, and functional connectivity to investigate multiplex community organisation.
+Contains Python code for multiplex network analysis integrating white matter connectivity, grey matter similarity, and functional connectivity to investigate multiplex community organisation.
