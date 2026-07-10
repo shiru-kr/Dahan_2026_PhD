@@ -19,7 +19,7 @@ This work was completed as part of my PhD research at the University of Galway.
 ### Study 1
 **Treatment Resistance in Bipolar Disorder is Associated with Intrinsic Network Power**
 
-Contains scripts and code for Study 1 sensitivity analyses. The study performed Independent Component Analysis (ICA) on resting-state functional MRI to investigate intrinsic brain network activity and its relationship with treatment response in bipolar disorder. Preprocessing was performed in SPM and ICA was performed with the GIFT toolbox (GUI). The python scripts in the folder were used to assess the stability of the power spectra results and for plotting.
+Contains scripts and code for Study 1 sensetivity analyses. The study performed Independent Component Analysis (ICA) on resting-state functional MRI to investigate intrinsic brain network activity and its relationship with treatment response in bipolar disorder. Preprocessing was performed in SPM and ICA was performed with the GIFT toolbox (GUI). The python scripts in the folder were used to assess the stability of the power spectra results and for plotting.
 
 Dahan, S., Casburn, M., Fernandes, A., Quirke, J., Corley, E., Broin, P. Ó., ... & Sweet, J. (2026). Treatment Resistance in Bipolar Disorder is Associated with Intrinsic Network Power. Journal of Affective Disorders Reports, 101107.
 
